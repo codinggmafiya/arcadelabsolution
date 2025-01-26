@@ -14,4 +14,4 @@ sudo chmod +x gsp096.sh
 
 #### *SUBSCRIBE*
 
-# [CODIGG MAFIYA]
+# [CODINGG MAFIYA]
