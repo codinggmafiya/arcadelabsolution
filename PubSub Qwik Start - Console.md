@@ -3,7 +3,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/codinggmafiya/arcadelabsolution/refs/heads/main/gsp190.sh
+curl -LO raw.githubusercontent.com/codinggmafiya/arcadelabsolution/refs/heads/main/gsp096.sh
 
 sudo chmod +x gsp096.sh
 
