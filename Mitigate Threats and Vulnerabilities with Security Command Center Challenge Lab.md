@@ -15,7 +15,7 @@ sudo chmod +x gsp382-1.sh
 ### Run again the following Commands in CloudShell
 
 ```
-curl -LO https://raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/refs/heads/main/Mitigate%20Threats%20and%20Vulnerabilities%20with%20Security%20Command%20Center%20Challenge%20Lab/gsp382-2.sh
+curl -LO https://raw.githubusercontent.com/codinggmafiya/arcadelabsolution/refs/heads/main/gsp382-2.sh
 
 sudo chmod +x gsp382-2.sh
 
