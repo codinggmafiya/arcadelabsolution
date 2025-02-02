@@ -3,9 +3,9 @@
 #### Execute the Script  
 
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/refs/heads/main/Set%20Up%20Network%20and%20Application%20Load%20Balancers/gsp007.sh
+curl -LO raw.githubusercontent.com/codinggmafiya/arcadelabsolution/refs/heads/main/Set%20Up%20Network%20and%20Application%20Load%20Balancers/gsp007.sh
 
-sudo chmod +x *.sh
+sudo chmod +x gsp007.sh
 
 ./gsp007.sh
 ```
