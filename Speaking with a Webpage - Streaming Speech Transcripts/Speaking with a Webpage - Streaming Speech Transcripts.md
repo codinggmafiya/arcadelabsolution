@@ -26,7 +26,7 @@ sudo chmod +x gsp125-2.sh
 ### Run the following Commands in CloudShell `Previous Tab`
 
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Speaking%20with%20a%20Webpage%20-%20Streaming%20Speech%20Transcripts/gsp125-3.sh
+curl -LO raw.githubusercontent.com/codinggmafiya/arcadelabsolution/refs/heads/main/Speaking%20with%20a%20Webpage%20-%20Streaming%20Speech%20Transcripts/gsp125-3.sh
 
 sudo chmod +x gsp125-3.sh
 
