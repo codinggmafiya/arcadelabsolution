@@ -5,7 +5,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Deploy%2C%20Scale%2C%20and%20Update%20Your%20Website%20on%20Google%20Kubernetes%20Engine/gsp663.sh
+curl -LO raw.githubusercontent.com/codinggmafiya/arcadelabsolution/refs/heads/main/Deploy%2C%20Scale%2C%20and%20Update%20Your%20Website%20on%20Google%20Kubernetes%20Engine/gsp663.sh
 
 sudo chmod +x gsp663.sh
 
