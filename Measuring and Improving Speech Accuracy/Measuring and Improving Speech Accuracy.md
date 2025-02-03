@@ -6,7 +6,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Measuring%20and%20Improving%20Speech%20Accuracy/gsp758.sh
+curl -LO raw.githubusercontent.com/codinggmafiya/arcadelabsolution/refs/heads/main/Measuring%20and%20Improving%20Speech%20Accuracy/gsp758.sh
 
 sudo chmod +x gsp758.sh
 
