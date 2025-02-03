@@ -11,7 +11,7 @@ export TAG=
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Deploy%20Kubernetes%20Applications%20on%20Google%20Cloud%20Challenge%20Lab/gsp318.sh
+curl -LO raw.githubusercontent.com/codinggmafiya/arcadelabsolution/refs/heads/main/Deploy%20Kubernetes%20Applications%20on%20Google%20Cloud%20Challenge%20Lab/gsp318.sh
 
 sudo chmod +x gsp318.sh
 
