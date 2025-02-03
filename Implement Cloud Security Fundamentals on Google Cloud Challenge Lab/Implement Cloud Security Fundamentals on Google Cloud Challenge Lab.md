@@ -9,7 +9,7 @@ export CLUSTER=
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Implement%20Cloud%20Security%20Fundamentals%20on%20Google%20Cloud%20Challenge%20Lab/gsp342.sh
+curl -LO raw.githubusercontent.com/codinggmafiya/arcadelabsolution/refs/heads/main/Implement%20Cloud%20Security%20Fundamentals%20on%20Google%20Cloud%20Challenge%20Lab/gsp342.sh
 
 sudo chmod +x gsp342.sh
 
