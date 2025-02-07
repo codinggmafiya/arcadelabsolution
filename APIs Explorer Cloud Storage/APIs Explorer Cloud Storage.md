@@ -12,4 +12,4 @@ sudo chmod +x gsp421.sh
 
 ### Congratulations 🎉 for Completing the Lab !
 
-# [QUICK GCP LAB](https://www.youtube.com/@CodinggMafiya)
+# [CODINGG MAFIYA](https://www.youtube.com/@CodinggMafiya)
