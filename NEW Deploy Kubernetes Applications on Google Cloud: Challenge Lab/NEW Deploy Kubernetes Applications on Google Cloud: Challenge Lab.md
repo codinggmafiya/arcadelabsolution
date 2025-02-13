@@ -13,6 +13,18 @@ export PROJECTID=
 
 TASK - 1  
 
+RUN IN CLOUD SHELL
+
+```
+source <(gsutil cat gs://cloud-training/gsp318/marking/setup_marking_v2.sh)
+```
+
+```
+gsutil cp gs://spls/gsp318/valkyrie-app.tgz .
+tar -xzf valkyrie-app.tgz
+cd valkyrie-app
+```
+
 ```
 gsutil cat gs://cloud-training/gsp318/marking/setup_marking.sh | bash
  
@@ -54,6 +66,8 @@ cd ..
 cd marking
  
 ./step2_v2.sh
+
+bash ~/marking/step2_v2.sh
 ```
 
 TASK - 3 ( REPLACE YOUR REGION  AND ZONE)
@@ -74,6 +88,17 @@ docker push <REPLACE YOUR REGION>-docker.pkg.dev/$PROJECTID/$REPOSITORY/$IMAGE:$
 ```
 
 TASK - 4  (  REPLACE ALONG WITH <REPLACE> WIH YOUR ACTUAL REGION OR ZONE )
+RUN IN CLOUD SHELL 
+```
+source <(gsutil cat gs://cloud-training/gsp318/marking/setup_marking_v2.sh)
+```
+
+```
+gsutil cp gs://spls/gsp318/valkyrie-app.tgz .
+tar -xzf valkyrie-app.tgz
+cd valkyrie-app
+```
+
 
 ```
 sed -i  s#IMAGE_HERE#<REPLACE YOUR REGION>-docker.pkg.dev/$PROJECTID/$REPOSITORY/$IMAGE:$TAG#g k8s/deployment.yaml
