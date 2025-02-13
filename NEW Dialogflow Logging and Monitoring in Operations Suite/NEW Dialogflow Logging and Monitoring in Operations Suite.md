@@ -56,7 +56,7 @@ cd marking
 ./step2_v2.sh
 ```
 
-TASK - 3  (<REPLACE YOUR REGION> AND ZONE)
+TASK - 3 ( REPLACE YOUR REGION  AND ZONE)
 
 ```
 cd ..
@@ -73,7 +73,7 @@ docker-credential-gcr configure-docker --registries=<REPLACE YOUR ZONE>-docker.p
 docker push <REPLACE YOUR REGION>-docker.pkg.dev/$PROJECTID/$REPOSITORY/$IMAGE:$TAG
 ```
 
-TASK - 4  ( <REPLACE YOUR ZONE> REPLACE ALONG WITH <> WIH YOUR ACTUAL REGION OR ZONE )
+TASK - 4  (  REPLACE ALONG WITH <REPLACE> WIH YOUR ACTUAL REGION OR ZONE )
 
 ```
 sed -i  s#IMAGE_HERE#<REPLACE YOUR REGION>-docker.pkg.dev/$PROJECTID/$REPOSITORY/$IMAGE:$TAG#g k8s/deployment.yaml
