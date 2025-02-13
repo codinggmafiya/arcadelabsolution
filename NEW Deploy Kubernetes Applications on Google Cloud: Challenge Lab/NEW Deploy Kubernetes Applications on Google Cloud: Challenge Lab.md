@@ -1,4 +1,4 @@
-# APIs Explorer: Cloud Storage || [GSP794](https://www.cloudskillsboost.google/games/5890/labs/37470) ||
+# APIs Explorer: Cloud Storage || [GSP318](https://www.cloudskillsboost.google/games/5890/labs/37471) ||
 
 ### Run the following Commands in CloudShell
 
