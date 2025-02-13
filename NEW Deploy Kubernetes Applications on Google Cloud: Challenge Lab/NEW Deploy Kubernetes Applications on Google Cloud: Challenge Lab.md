@@ -112,6 +112,8 @@ kubectl create -f k8s/service.yaml
 gcloud auth configure-docker <REPLACE YOUR ZONE>-docker.pkg.dev
 ```
 
+WAIT 2 MINUTES THE CHECK MY PROGRESS
+
 ### Congratulations 🎉 for Completing the Lab !
 
 # [CODINGG MAFIYA](https://www.youtube.com/@CodinggMafiya)
