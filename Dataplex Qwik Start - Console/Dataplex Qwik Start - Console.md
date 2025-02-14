@@ -6,7 +6,7 @@
 export REGION=
 ```
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Dataplex%20Qwik%20Start%20-%20Console/gsp1143.sh
+curl -LO raw.githubusercontent.com/codinggmafiya/arcadelabsolution/refs/heads/main/Dataplex%20Qwik%20Start%20-%20Console/gsp1143.sh
 
 sudo chmod +x gsp1143.sh
 
