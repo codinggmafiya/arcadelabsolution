@@ -6,7 +6,7 @@
 export LOCATION=
 ```
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Service%20Directory%20Qwik%20Start/gsp732.sh
+curl -LO raw.githubusercontent.com/codinggmafiya/arcadelabsolution/refs/heads/main/Dataplex%20Qwik%20Start%20-%20Console/Service%20Directory%20Qwik%20Start/gsp732.sh
 
 sudo chmod +x gsp732.sh
 
