@@ -6,7 +6,7 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Setting%20up%20a%20Private%20Kubernetes%20Cluster/gsp178.sh
+curl -LO raw.githubusercontent.com/codinggmafiya/arcadelabsolution/refs/heads/main/Setting%20up%20a%20Private%20Kubernetes%20Cluster/gsp178.sh
 
 sudo chmod +x gsp178.sh
 
