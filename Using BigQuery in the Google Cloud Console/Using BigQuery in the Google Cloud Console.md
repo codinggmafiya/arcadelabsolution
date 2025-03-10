@@ -1,7 +1,7 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/codinggmafiya/arcadelabsolution/refs/heads/main/App%20Engine%20Qwik%20Start%20-%20Python/gsp067.sh
+curl -LO raw.githubusercontent.com/codinggmafiya/arcadelabsolution/refs/heads/main/Using%20BigQuery%20in%20the%20Google%20Cloud%20Console/GSP406.sh
 
 sudo chmod +x GSP406.sh
 
